@@ -1,0 +1,31 @@
+name: comandero_movil
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Firebase core and authentication for user login
+  firebase_core: ^2.15.1  # Asegúrate de que sea la última versión compatible
+  firebase_auth: ^4.10.2  # Última versión compatible
+
+  # Geolocator for obtaining location data
+  geolocator: ^10.5.3  # Última versión
+
+  # Permission handler for managing permissions
+  permission_handler: ^11.2.0  # Última versión
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

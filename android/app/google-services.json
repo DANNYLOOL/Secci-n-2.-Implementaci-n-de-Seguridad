@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549157986750",
+    "project_id": "comanderomovil-21182",
+    "storage_bucket": "comanderomovil-21182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549157986750:android:dd299bcb4ba1ad751519ef",
+        "android_client_info": {
+          "package_name": "com.example.comandero_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8guXycUghADjlYIhjAUjoOsUSUeTysEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
